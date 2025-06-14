@@ -38,3 +38,12 @@ node index.js
 ```
 
 ### 2. Запуск клиентского приложения
+```bash
+cd my-graphql-app
+npm start
+```
+## 🌐 Доступ к сервисам
+
+GraphQL Playground: http://localhost:4000/graphql
+
+Client App: http://localhost:3000
