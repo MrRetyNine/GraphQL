@@ -12,11 +12,6 @@
 | Products Service | 4003  | Управление товарами       |
 | Client App       | 3000  | React-приложение          |
 
-## 🛠️ Требования
-
-- Node.js v16+
-- npm v8+
-- MongoDB (для сервисов Orders и Products)
 
 ## 🚀 Запуск системы
 
@@ -37,6 +32,8 @@ node index.js
 cd products-service
 node index.js
 
-# API Gateway
+# API Gateway (тажке можно просто через Run code)
 cd gateway
 node index.js
+
+### 2. Запуск клиентского приложения
