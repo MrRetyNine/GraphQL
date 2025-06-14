@@ -35,5 +35,6 @@ node index.js
 # API Gateway (тажке можно просто через Run code)
 cd gateway
 node index.js
+```
 
 ### 2. Запуск клиентского приложения
